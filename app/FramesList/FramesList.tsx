@@ -72,37 +72,43 @@ export const sources: SourceData[] = [
 	{
 		name: "Celeste",
 		URL: "https://skibidi-math.github.io/celeste/",
-		description: "Celeste is a platformer game where you climb a mountain. It is really fun, I recommend playing this.",
+		description:
+			"Celeste is a platformer game where you climb a mountain. It is really fun, I recommend playing this.",
 		category: "Platformer",
 	},
 	{
 		name: "Brotato",
 		URL: "404.html",
-		description: "This was the goated game before Celeste. Its a 2D rougelike where you make combos to kill monsters as a potato.",
+		description:
+			"This was the goated game before Celeste. Its a 2D rougelike where you make combos to kill monsters as a potato.",
 		category: "Rougelike",
 	},
 	{
 		name: "Retro Bowl",
 		URL: "https://skibidi-math.github.io/retro-bowl/",
-		description: "Retro bowl is a 2d game where you play American Football. It has a retro style with pixel art graphics..",
+		description:
+			"Retro bowl is a 2d game where you play American Football. It has a retro style with pixel art graphics..",
 		category: "Sports",
 	},
 	{
 		name: "PVZ 1",
 		URL: "https://skibidi-math.github.io/pvz1/",
-		description: "Plants vs. Zombies 1 is a tower defense game where you place plants to defend against waves of zombies.",
+		description:
+			"Plants vs. Zombies 1 is a tower defense game where you place plants to defend against waves of zombies.",
 		category: "Tower Defense",
 	},
 	{
 		name: "Games Launcher",
 		URL: "https://bestcalculatorforstudents.base44.app/Games",
-		description: "A games launcher made in base44. It has some games that I'm too lazy to directly port here.",
+		description:
+			"A games launcher made in base44. It has some games that I'm too lazy to directly port here.",
 		category: "Other Game Sites",
 	},
 	{
 		name: "20 Minutes Till Dawn",
 		URL: "https://skibidi-math.github.io/20-minutes/",
-		description: "20 Minutes Till Dawn is the full game of the demo 10 Minutes Till Dawn. It is a rougelike where you play as femboys and attack flying octopuses.",
+		description:
+			"20 Minutes Till Dawn is the full game of the demo 10 Minutes Till Dawn. It is a rougelike where you play as femboys and attack flying octopuses.",
 		category: "Roguelike",
 	},
 	{

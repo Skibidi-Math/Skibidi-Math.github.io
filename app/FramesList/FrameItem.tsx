@@ -16,7 +16,6 @@ export function FrameItem({
 	onToggleFavorite?: (url: string) => void;
 	onOpen?: (url: string, title?: string) => void;
 }) {
-
 	return (
 		<article className="group flex h-full flex-col justify-between rounded-lg border border-gray-200 bg-white p-5 shadow-sm transition duration-200 hover:-translate-y-0.5 hover:border-blue-300 hover:shadow-md dark:border-gray-800 dark:bg-gray-900 dark:hover:border-blue-500/70">
 			<div className="space-y-4">
