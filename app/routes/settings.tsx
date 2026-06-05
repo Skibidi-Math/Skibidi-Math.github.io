@@ -2,7 +2,7 @@ import React from "react";
 import { Link } from "react-router";
 
 export function meta() {
-	return [{ title: "Settings - Source Frames" }];
+	return [{ title: "Skibidi Math Settings" }];
 }
 
 export default function Settings() {
