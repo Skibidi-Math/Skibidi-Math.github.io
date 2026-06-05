@@ -5,8 +5,8 @@ import Header from "../Header";
 
 export function meta(_args: Route.MetaArgs) {
 	return [
-		{ title: "Source Frames [INSERT YOUR APP TITLE HERE]" },
-		{ name: "description", content: "Welcome to React Router!" },
+		{ title: "Skibidi Math" },
+		{ name: "description", content: "Its time to be skibidi and do math." },
 	];
 }
 
