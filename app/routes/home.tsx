@@ -68,7 +68,7 @@ export default function Home() {
 
 			<main className="min-h-screen bg-gray-50 text-gray-950 dark:bg-gray-950 dark:text-white pt-6">
 				<div className="mx-auto w-full max-w-6xl px-4 pt-6 sm:px-6 lg:px-8">
-					<h1 className="sr-only">Source Frames</h1>
+					<h1 className="sr-only">Skibidi Math</h1>
 				</div>
 
 				<FramesList

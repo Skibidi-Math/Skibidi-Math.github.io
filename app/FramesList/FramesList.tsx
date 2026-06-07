@@ -43,9 +43,9 @@ export function FramesList({
 		<section className="mx-auto w-full max-w-6xl px-4 py-8 sm:px-6 lg:px-8">
 			<div className="mb-6 flex flex-col gap-3 border-b border-gray-200 pb-5 dark:border-gray-800 sm:flex-row sm:items-end sm:justify-between">
 				<div>
-					<p className="text-sm font-medium text-blue-600 dark:text-blue-400">Source library</p>
+					<p className="text-sm font-medium text-blue-600 dark:text-blue-400">Apps library</p>
 					<h2 className="mt-1 text-2xl font-semibold tracking-tight text-gray-950 dark:text-white">
-						Frames ready to explore
+						Apps ready to use
 					</h2>
 				</div>
 				<p className="text-sm text-gray-600 dark:text-gray-400">{filtered.length} results</p>
