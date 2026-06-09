@@ -38,4 +38,4 @@ This file provides short, actionable instructions for AI coding agents working i
 
 ## About the project
 
-Go look in readme.md for more about the project.
+Go look in readme.md for more about the project. Also please prefer pnpm.

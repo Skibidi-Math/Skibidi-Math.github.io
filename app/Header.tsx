@@ -24,12 +24,12 @@ export function Header({
 				<div className="flex items-center gap-3">
 					<Link to="/" className="text-lg font-semibold text-gray-900 dark:text-white">
 						<span className="inline-block mr-2 text-blue-600">◧</span>
-						Source Frames
+						Skibidi Math
 					</Link>
 				</div>
 
 				<div className="flex flex-1 items-center">
-					<label className="sr-only">Search sources</label>
+					<label className="sr-only">Search Apps</label>
 					<input
 						value={query}
 						onChange={(e) => setQuery(e.target.value)}
