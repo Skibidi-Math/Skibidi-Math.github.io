@@ -1,8 +1,12 @@
 import React from "react";
 import { Link } from "react-router";
+import type { Route } from "./+types/settings";
 
-export function meta() {
-	return [{ title: "Skibidi Math Settings" }];
+export function meta(_args: Route.MetaArgs) {
+	return [
+    { title: "Settings" }, 
+    { name: "description", content: "The settings page" }
+  ];
 }
 
 export default function Settings() {
