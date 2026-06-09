@@ -3,7 +3,10 @@ import { Link } from "react-router";
 import type { Route } from "./+types/settings";
 
 export function meta(_args: Route.MetaArgs) {
-	return [{ title: "Settings" }, { name: "description", content: "The settings page" }];
+	return [
+    { title: "Settings" }, 
+    { name: "description", content: "The settings page" }
+  ];
 }
 
 export default function Settings() {

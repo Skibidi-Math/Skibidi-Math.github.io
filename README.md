@@ -1,9 +1,13 @@
-# Source Frames!
+# Skibidi Math
 
-This is a template for a react router app using hash router to build to html files only with no backend needed. You can add a customizable array of frames going to different URLS or doing different things.
+Skibidi math is a helpful website with many apps that will help students.
 
-## Notes
+## How to use
+Skibidi math is blocked because it uses free hosting sites like Vercel, Netlify, Github Pages, and Cloudflare Pages. 
 
-- It is recommended to use Cloudflare Pages, Vercel, or Netlify instead of github pages because this project uses React Router's framework mode
-- The Check-Lint-Format workflow builds as well as lints which could increase github actions spending. You can remove the build step if you care about CI/CD times or github actions budget.
-- The Check-Lint-Format workflow does not fail fast. This works well for smaller repos, where you can get everything you need to change all at once, but could get costly for larger repos.
+### Official Links (Sorted by recommended)
+* [Cloudflare Production (pages.dev)](https://skibidi-math.pages.dev/)
+  * For unstable preview on cloudflare go to https://use-proxies.skibidi-math.pages.dev/
+* [Github pages, may not work](https://skibidi-math.github.io)
+* [Vercel](https://skibidi-math.vercel.app/)
+* [Netlify](https://skibidi-math.netlify.app/)
