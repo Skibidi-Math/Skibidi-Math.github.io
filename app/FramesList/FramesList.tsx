@@ -70,6 +70,20 @@ export function FramesList({
 
 export const sources: SourceData[] = [
 	{
+		name: "Keybase.io",
+		URL: "https://keybase.io/encrypt",
+		description:
+			"Make sure that people that shouldn't see your messages don't see them. For more information go to: https://gist.github.com/theveryoilydill/d405eae776b48f31cb1cf38cf533a992",
+		category: "Messaging",
+	},
+	{
+		name: "Coderef PGP",
+		URL: "https://www.codref.org/tools/pgp/",
+		description:
+			"Make sure that people that shouldn't see your messages don't see them. For more information go to: https://gist.github.com/theveryoilydill/d405eae776b48f31cb1cf38cf533a992",
+		category: "Messaging",
+	},
+	{
 		name: "Celeste",
 		URL: "https://skibidi-math.github.io/celeste/",
 		description:
