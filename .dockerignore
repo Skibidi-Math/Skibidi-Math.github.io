@@ -1,0 +1,11 @@
+.git
+.github
+.react-router
+.wrangler
+build
+node_modules
+dev.log
+*.tsbuildinfo
+worker-configuration.d.ts
+Dockerfile
+.dockerignore
